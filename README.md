@@ -37,7 +37,7 @@
 ---
 
 ## 📋 Requisitos
-
+- Cliente resolucion 800 x 600 (esto se puede cambiar en las opciones del juego)
 - Windows 7, 8, 10 o 11
 - Python 3.7 o superior
 - MU Online ejecutándose con la ventana que contenga `"www.mu-exilio.com"` en el título
